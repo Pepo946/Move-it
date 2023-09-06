@@ -1,0 +1,11 @@
+.bi{
+    margin-right: 20px;
+}
+.navbar-brand{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+}
+.active , .nav-link{
+    font-size: 18px;
+}
